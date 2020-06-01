@@ -1,0 +1,6 @@
+{"personas": [
+{"nombre": "Juan", "profesion": "charcutero", "peso": [{"enero": 72}, {"febrero": 73}, {"marzo": 74}, {"abril": 75}]},
+{"nombre": "Pepe", "profesion": "pollero", "peso": [{"enero": 65}, {"febrero": 68}, {"marzo": 66}, {"abril": 80}]},
+{"nombre": "Amanda", "profesion": "peluquera", "peso": [{"enero": 50}, {"febrero": 52}, {"marzo": 51}, {"abril": 50}]}
+],
+"imagen": "pepe.jpg"}
